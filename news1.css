@@ -1,0 +1,81 @@
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
+#textbox{
+ 
+
+  border-top: solid black;
+  border-bottom: solid black;
+}
+.fun{
+  border-bottom: "solid black";
+  margin-top: 2%;
+}
+.floor{
+  border-bottom: solid black;
+  border-top: solid black;
+  font-size: 10px;
+  text-align: justify;
+
+}
+.para{
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 700;
+  
+}
+.font{
+font-size:  8px;
+text-align:justify;
+
+
+}
+.pom{
+  display: flex;
+  background-color: black;
+  color: white;
+  width: 1cm;
+  height: 1cm;
+  margin-left: 150px;
+  margin-top:-40px;
+  font-size: 8px;
+  padding-left: 5%;
+  padding-top: 3%;
+  position: relative;
+ 
+
+
+border-radius: 100px;
+}
+.col-4{
+  margin-top: 10px;
+}
+.trip{
+  display: flex;
+  background-color: black;
+  color: white;
+  width: 1cm;
+  height: 1cm;
+  margin-left: 400px;
+  margin-top:-40px;
+  font-size: 8px;
+  padding-left: 3%;
+  padding-top: 3%;
+  position: relative;
+ 
+
+
+border-radius: 100px;
+}
+.hp{
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;;
+  color: darkred;
+}
+.non{
+  margin-top: 0px;
+  border-top: solid black;
+}
